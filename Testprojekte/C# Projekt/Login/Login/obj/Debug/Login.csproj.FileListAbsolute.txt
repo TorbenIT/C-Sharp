@@ -1,0 +1,9 @@
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\bin\Debug\Login.exe.config
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\bin\Debug\Login.exe
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\bin\Debug\Login.pdb
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.Form1.resources
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.exe
+E:\Informatikausbildung\C Sharp\C# Projekt\Login\Login\obj\Debug\Login.pdb

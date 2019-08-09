@@ -1,0 +1,10 @@
+E:\Informatikausbildung\Wichtig_Für_Projekt\Wichtig_Für_Projekt\bin\Debug\Wichtig_Für_Projekt.exe.config
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\bin\Debug\Wichtig_Für_Projekt.exe.config
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\bin\Debug\Wichtig_Für_Projekt.exe
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\bin\Debug\Wichtig_Für_Projekt.pdb
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.Form1.resources
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.exe
+E:\Informatikausbildung\C Sharp\Wichtig_Für_Projekt\Wichtig_Für_Projekt\obj\Debug\Wichtig_Für_Projekt.pdb

@@ -1,0 +1,98 @@
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	font: "open-sans";
+	line-height: 1.75;
+	margin: 0;
+	align-content: center;
+	text-align: center;
+}
+
+.startseite
+{
+	background-image: url("../images/startseite.jpg");
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+.spenden
+{
+	background-image: url("../images/spenden.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.danke
+{
+	background-image: url("../images/danke.jpg");
+	background-repeat: no-repeat; /*so dass das Hintergrundbild der Startseite nicht wiederum angezeigt wird*/
+	background-size: cover;
+}
+
+h1
+{
+	font-size: 44px;
+	color: white;
+}
+
+hr
+{
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+p
+{
+	font-size: 34px;
+	color: white;
+}
+
+li
+{
+	margin: 5px;
+	list-style: none;
+	background-color: white;
+	display: inline;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 20px;
+}
+
+a
+{
+	text-decoration: none;
+	font-size: 24px;
+	color: black;
+}
+
+li:hover
+{
+	background-color: lightblue;
+}
+
+form
+{
+	position: absolute;
+	background-color: white;
+	border-radius: 20px;
+	width: 400px;
+	left: 37%;
+	padding: 10px;
+}
+
+input
+{
+	width: 300px;
+}
+
+textarea
+{
+	width: 300px;
+}
+
+h4
+{
+	color: red;
+}

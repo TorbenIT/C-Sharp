@@ -1,0 +1,111 @@
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csprojResolveAssemblyReference.cache
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.FormVerwaltung.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.GenerateResource.Cache
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form3.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form5.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form6.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form7.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form8.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form9.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form10.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe.config
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.pdb
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Properties.Resources.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.exe
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.pdb
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassung.accdb
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form11.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form4.resources
+E:\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form12.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassung.accdb
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe.config
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.pdb
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csprojAssemblyReference.cache
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.FormVerwaltung.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form10.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form11.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form12.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form3.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form4.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form5.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form6.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form7.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form8.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form9.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Properties.Resources.resources
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.GenerateResource.cache
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.CoreCompileInputs.cache
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.exe
+F:\Schule\P - Zeitverwaltungstool\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.pdb
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassung.accdb
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe.config
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.pdb
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csprojResolveAssemblyReference.cache
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.FormVerwaltung.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form10.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form11.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form12.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form3.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form4.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form5.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form6.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form7.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form8.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form9.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Properties.Resources.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.GenerateResource.Cache
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.exe
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.pdb
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Anmelden.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Benutzerverwaltung.resources
+H:\Eigene Dateien\P\OneDrive_1_8.11.2018\Zeiterfassungstool\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form2.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassung.accdb
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe.config
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.pdb
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csprojResolveAssemblyReference.cache
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Anmelden.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Benutzerverwaltung.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.FormVerwaltung.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form10.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form11.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form12.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form2.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form3.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form4.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form5.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form6.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form7.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form8.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form9.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Properties.Resources.resources
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.GenerateResource.Cache
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.exe
+E:\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.pdb
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassung.accdb
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe.config
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.exe
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\bin\Debug\Zeiterfassungstool2.pdb
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csprojAssemblyReference.cache
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Anmelden.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Benutzerverwaltung.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.FormVerwaltung.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form10.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form11.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form12.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form2.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form3.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form4.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form5.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form6.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form7.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form8.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.Form9.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.Properties.Resources.resources
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.GenerateResource.cache
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool.csproj.CoreCompileInputs.cache
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.exe
+G:\Basics_Programming\C#\Zeiterfassung - Markus, Nina, Niko, Alex\zeiterfassung\Zeiterfassungstool\obj\Debug\Zeiterfassungstool2.pdb

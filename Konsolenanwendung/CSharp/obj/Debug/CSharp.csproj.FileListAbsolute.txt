@@ -1,0 +1,21 @@
+D:\Informatik\C#\CSharp\CSharp\bin\Debug\CSharp.exe.config
+D:\Informatik\C#\CSharp\CSharp\bin\Debug\CSharp.exe
+D:\Informatik\C#\CSharp\CSharp\bin\Debug\CSharp.pdb
+D:\Informatik\C#\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+D:\Informatik\C#\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+D:\Informatik\C#\CSharp\CSharp\obj\Debug\CSharp.exe
+D:\Informatik\C#\CSharp\CSharp\obj\Debug\CSharp.pdb
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\bin\Debug\CSharp.exe.config
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\bin\Debug\CSharp.exe
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\bin\Debug\CSharp.pdb
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\obj\Debug\CSharp.exe
+F:\Informatikausbildung\C Sharp\C#\CSharp\CSharp\obj\Debug\CSharp.pdb
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\bin\Debug\CSharp.exe.config
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\bin\Debug\CSharp.exe
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\bin\Debug\CSharp.pdb
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\obj\Debug\CSharp.exe
+G:\Informatikausbildung\IK11\C Sharp\C#\Konsolenanwendung\CSharp\obj\Debug\CSharp.pdb

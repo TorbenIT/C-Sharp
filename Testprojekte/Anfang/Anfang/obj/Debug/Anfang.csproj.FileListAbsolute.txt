@@ -1,0 +1,7 @@
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\bin\Debug\Anfang.exe.config
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\bin\Debug\Anfang.exe
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\bin\Debug\Anfang.pdb
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\obj\Debug\Anfang.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\obj\Debug\Anfang.csproj.CoreCompileInputs.cache
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\obj\Debug\Anfang.exe
+E:\Informatikausbildung\C Sharp\Anfang\Anfang\obj\Debug\Anfang.pdb

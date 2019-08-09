@@ -1,0 +1,10 @@
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.exe.config
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Form1.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Form2.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.pdb

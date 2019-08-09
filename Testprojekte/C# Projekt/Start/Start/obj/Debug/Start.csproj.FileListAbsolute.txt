@@ -1,0 +1,40 @@
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.exe.config
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Start\Start\bin\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Form1.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Form2.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Start\Start\obj\Debug\Start.pdb
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\bin\Debug\Start.exe.config
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.exe
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.pdb
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\bin\Debug\Start.exe
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\bin\Debug\Start.pdb
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Form1.resources
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Form2.resources
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Properties.Resources.resources
+H:\WINDOWS\Eigene Dateien\C#\Projekt\C# Projekt\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\bin\Debug\Start.exe.config
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\bin\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\bin\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Form1.resources
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Form2.resources
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\Projekt\Projekt\C# Projekt\Start\Start\obj\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.Form2.resources
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.Properties.Resources.resources
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\bin\Debug\Start.exe.config
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\bin\Debug\Start.exe
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\bin\Debug\Start.pdb
+E:\Informatikausbildung\C Sharp\C# Projekt\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
